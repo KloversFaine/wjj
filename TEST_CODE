@@ -1,0 +1,9 @@
+#include<iostream>
+
+using namespce std;
+
+int main()
+{
+  cout<<"HEllo world!"<<endl; //just for test
+}
+
